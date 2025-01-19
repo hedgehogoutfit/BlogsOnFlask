@@ -1,4 +1,4 @@
-Flask Blog
+# Flask Blog
 A simple blog application built using Flask and SQLite. It includes user authentication and CRUD operations for blog posts.
 
 Features
